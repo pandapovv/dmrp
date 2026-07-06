@@ -28,8 +28,5 @@
   },
   "challenger.grandmagus.tier2.fire": {
     "sounds": ["dmrp:challenger/grandmagus/tier2/fire"]
-  },
-  "challenger.grandmagus.tier3.lol": {
-    "sounds": ["dmrp:challenger/grandmagus/tier2/fire"]
   }
 }
