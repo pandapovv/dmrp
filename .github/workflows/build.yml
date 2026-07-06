@@ -4,6 +4,9 @@ on:
   push:
     branches: [ "main" ]
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,9 +15,9 @@ jobs:
       - name: Zip Resource Pack
         run: zip -r ${{ github.event.repository.name }}.zip .
       - name: Create Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: ${{ github.event.repository.name }}.zip
           tag_name: latest
           name: Latest Release
-          body: "Auto RP Compile"
+          body: "Автоматическая сборка ресурспака."
