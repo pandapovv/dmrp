@@ -1,0 +1,20 @@
+name: Build Resource Pack
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zip Resource Pack
+        run: zip -r ${{ github.event.repository.name }}.zip .
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ${{ github.event.repository.name }}.zip
+          tag_name: latest
+          name: Latest Release
+          body: "Auto RP Compile"
