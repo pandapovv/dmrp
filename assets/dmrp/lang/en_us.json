@@ -1,0 +1,14 @@
+{
+"death.attack.dmrp:zodiac.genesis": "%1$s was turned to stardust by %2$s",
+"death.attack.dmrp:zodiac.genesis.item": "%1$s was turned to stardust by %2$s",
+"death.attack.dmrp:zodiac.supernova": "%1$s was disintegrated by %2$s",
+"death.attack.dmrp:zodiac.supernova.item": "%1$s was disintegrated by %2$s",
+"death.attack.dmrp:grandmagus.tier1.fire": "%1$s was killed with a fireball by %2$s",
+"death.attack.dmrp:grandmagus.tier1.fire.item": "%1$s was killed with a fireball by %2$s",
+"death.attack.dmrp:grandmagus.tier2.fire": "%1$s was reduced to fiery ash by %2$s",
+"death.attack.dmrp:grandmagus.tier2.fire.item": "%1$s was reduced to fiery ash by %2$s",
+"death.attack.dmrp:grandmagus.tier2.lightning": "%1$s was killed with lightning by %2$s",
+"death.attack.dmrp:grandmagus.tier2.lightning.item": "%1$s was killed with lightning by %2$s",
+"death.attack.dmrp:grandmagus.tier2.wind": "%1$s fell to their death beacause of %2$s",
+"death.attack.dmrp:grandmagus.tier2.wind.item": "%1$s fell to their death beacause of %2$s"
+}

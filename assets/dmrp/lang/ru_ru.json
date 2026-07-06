@@ -1,0 +1,14 @@
+{
+"death.attack.dmrp:zodiac.genesis": "%1$s превратился в звёздную пыль от %2$s",
+"death.attack.dmrp:zodiac.genesis.item": "%1$s превратился в звёздную пыль от %2$s",
+"death.attack.dmrp:zodiac.supernova": "%1$s был дезинтегрирован %2$s",
+"death.attack.dmrp:zodiac.supernova.item": "%1$s был дезинтегрирован %2$s",
+"death.attack.dmrp:grandmagus.tier1.fire": "%1$s был убит файерболом %2$s",
+"death.attack.dmrp:grandmagus.tier1.fire.item": "%1$s был убит файерболом %2$s",
+"death.attack.dmrp:grandmagus.tier2.fire": "%1$s превратился в пепел от огненного дыхания %2$s",
+"death.attack.dmrp:grandmagus.tier2.fire.item": "%1$s превратился в пепел от огненного дыхания %2$s",
+"death.attack.dmrp:grandmagus.tier2.lightning": "%1$s был испепелён молнией %2$s",
+"death.attack.dmrp:grandmagus.tier2.lightning.item": "%1$s был испепелён молнией %2$s",
+"death.attack.dmrp:grandmagus.tier2.wind": "%1$s разбился из-за вихря %2$s",
+"death.attack.dmrp:grandmagus.tier2.wind.item": "%1$s разбился из-за вихря %2$s"
+}

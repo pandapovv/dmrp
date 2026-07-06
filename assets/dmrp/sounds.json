@@ -1,0 +1,32 @@
+{
+  "game.lift.open": {
+    "sounds": ["dmrp:map/lift/open"]
+  },
+  "game.lift.close": {
+    "sounds": ["dmrp:map/lift/close"]
+  },
+  "game.shop.buy": {
+    "sounds": ["dmrp:game/shop/buy"]
+  },
+  "game.shop.earn": {
+    "sounds": ["dmrp:game/shop/earn"]
+  },
+  "game.timer.countdown": {
+    "sounds": ["dmrp:game/timer/countdown"]
+  },
+  "challenger.zodiac.horoscope.1": {
+    "sounds": ["dmrp:challenger/zodiac/horoscope/1"]
+  },
+  "challenger.zodiac.horoscope.2": {
+    "sounds": ["dmrp:challenger/zodiac/horoscope/2"]
+  },
+  "challenger.zodiac.horoscope.supernova": {
+    "sounds": ["dmrp:challenger/zodiac/horoscope/supernova"]
+  },
+  "challenger.zodiac.horoscope.genesis": {
+    "sounds": ["dmrp:challenger/zodiac/horoscope/genesis"]
+  },
+  "challenger.grandmagus.tier2.fire": {
+    "sounds": ["dmrp:challenger/grandmagus/tier2/fire"]
+  }
+}
