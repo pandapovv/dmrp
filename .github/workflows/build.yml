@@ -20,4 +20,4 @@ jobs:
           files: ${{ github.event.repository.name }}.zip
           tag_name: latest
           name: Latest Release
-          body: "Автоматическая сборка ресурспака."
+          body: "Automagic resources build"
