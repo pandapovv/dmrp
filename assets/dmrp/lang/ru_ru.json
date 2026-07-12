@@ -1,6 +1,7 @@
 {
-"death.attack.dmrp:zodiac.genesis": "%1$s превратился в звёздную пыль от %2$s",
-"death.attack.dmrp:zodiac.genesis.item": "%1$s превратился в звёздную пыль от %2$s",
+"death.attack.dmrp:smasher.horn_toss": "%1$s был забодан до смерти %2$s",
+"death.attack.dmrp:zodiac.genesis": "%1$s превратился в звёздную пыль %2$s",
+"death.attack.dmrp:zodiac.genesis.item": "%1$s превратился в звёздную пыль %2$s",
 "death.attack.dmrp:zodiac.supernova": "%1$s был дезинтегрирован %2$s",
 "death.attack.dmrp:zodiac.supernova.item": "%1$s был дезинтегрирован %2$s",
 "death.attack.dmrp:frost_bite": "%1$s был убит ледяными осколками %2$s",
