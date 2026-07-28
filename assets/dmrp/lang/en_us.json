@@ -14,6 +14,6 @@
 "death.attack.dmrp:grandmagus.tier2.fire.item": "%1$s was reduced to fiery ash by %2$s",
 "death.attack.dmrp:grandmagus.tier2.lightning": "%1$s was killed with lightning by %2$s",
 "death.attack.dmrp:grandmagus.tier2.lightning.item": "%1$s was killed with lightning by %2$s",
-"death.attack.dmrp:grandmagus.tier2.wind": "%1$s doomed to fall by %2$s",
-"death.attack.dmrp:grandmagus.tier2.wind.item": "%1$s doomed to fall by %2$s"
+"death.attack.dmrp:grandmagus.tier2.wind": "%1$s was doomed to fall by %2$s",
+"death.attack.dmrp:grandmagus.tier2.wind.item": "%1$s was doomed to fall by %2$s"
 }
