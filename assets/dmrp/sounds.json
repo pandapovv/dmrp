@@ -40,5 +40,8 @@
   },
   "challenger.tundra.reload.4": {
     "sounds": ["dmrp:challenger/tundra/reload/4"]
+  },
+  "challenger.jock.whistle": {
+    "sounds": ["dmrp:challenger/jock/whistle"]
   }
 }
