@@ -29,6 +29,11 @@
   "challenger.grandmagus.tier2.fire": {
     "sounds": ["dmrp:challenger/grandmagus/tier2/fire"]
   },
+  "challenger.grandmagus.tier3.lightning.hit": {
+    "sounds": ["dmrp:challenger/grandmagus/tier3/lightning/hit1",
+               "dmrp:challenger/grandmagus/tier3/lightning/hit2",
+               "dmrp:challenger/grandmagus/tier3/lightning/hit3"]
+  },
   "challenger.tundra.reload.1": {
     "sounds": ["dmrp:challenger/tundra/reload/1"]
   },
