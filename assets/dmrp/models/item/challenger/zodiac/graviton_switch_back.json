@@ -1,48 +1,6 @@
 {
-	"format_version": "1.9.0",
-	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
-	"textures": {
-		"1": "dmrp:item/challenger/zodiac/graviton_switch_back",
-		"particle": "dmrp:item/challenger/zodiac/graviton_switch_back"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 8],
-			"to": [16, 16, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 8]},
-			"faces": {
-				"north": {"uv": [16, 0, 0, 16], "texture": "#1"},
-				"east": {"uv": [0, 0, 0, 8], "texture": "#1"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 0, 8], "texture": "#1"},
-				"up": {"uv": [8, 0, 0, 0], "rotation": 180, "texture": "#1"},
-				"down": {"uv": [8, 0, 0, 0], "rotation": 180, "texture": "#1"}
-			}
-		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 90, 0],
-			"scale": [0, 0, 0]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [0, 90, 0],
-			"scale": [0, 0, 0]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, -90, 25],
-			"translation": [1.13, 3.2, 1.13],
-			"scale": [0.68, 0.68, 0.68]
-		},
-		"firstperson_lefthand": {
-			"rotation": [0, 120, -25],
-			"translation": [1.13, 3.2, 1.13],
-			"scale": [0.68, 0.68, 0.68]
-		},
-		"gui": {
-			"rotation": [-75, 0, 0],
-			"scale": [1, 4, 1]
-		}
-	}
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dmrp:item/challenger/zodiac/graviton_switch_back"
+  }
 }
