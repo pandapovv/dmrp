@@ -29,6 +29,9 @@
   "challenger.grandmagus.tier2.fire": {
     "sounds": ["dmrp:challenger/grandmagus/tier2/fire"]
   },
+  "challenger.grandmagus.tier3.fire.warning": {
+    "sounds": ["dmrp:challenger/grandmagus/tier3/fire/warning"]
+  },
   "challenger.grandmagus.tier3.lightning.hit": {
     "sounds": ["dmrp:challenger/grandmagus/tier3/lightning/hit1",
                "dmrp:challenger/grandmagus/tier3/lightning/hit2",
