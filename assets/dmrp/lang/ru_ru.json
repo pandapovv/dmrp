@@ -1,5 +1,7 @@
 {
 "death.attack.dmrp:smasher.horn_toss": "%1$s был забодан до смерти %2$s",
+"death.attack.dmrp:smasher.obliterate": "%1$s был \u00A76\u00A7lУНИЧТОЖЕН\u00A7r %2$s",
+"death.attack.dmrp:smasher.obliterate.item": "%1$s был \u00A76\u00A7lУНИЧТОЖЕН\u00A7r %2$s с помощью %3$s",
 "death.attack.dmrp:zodiac.genesis": "%1$s был превращён в звёздную пыль %2$s",
 "death.attack.dmrp:zodiac.genesis.item": "%1$s был превращён в звёздную пыль %2$s",
 "death.attack.dmrp:zodiac.supernova": "%1$s был дезинтегрирован %2$s",
