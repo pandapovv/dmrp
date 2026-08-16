@@ -17,5 +17,9 @@
 "death.attack.dmrp:grandmagus.tier2.lightning": "%1$s was killed with lightning by %2$s",
 "death.attack.dmrp:grandmagus.tier2.lightning.item": "%1$s was killed with lightning by %2$s",
 "death.attack.dmrp:grandmagus.tier2.wind": "%1$s was doomed to fall by %2$s",
-"death.attack.dmrp:grandmagus.tier2.wind.item": "%1$s was doomed to fall by %2$s"
+"death.attack.dmrp:grandmagus.tier2.wind.item": "%1$s was doomed to fall by %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire": "%1$s was wiped off the face of DeathMatch by %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire.item": "%1$s was wiped off the face of DeathMatch by %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire_suicide": "%1$s wiped himself off the face of DeathMatch. The kill counts towards %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire_suicide.item": "%1$s wiped himself off the face of DeathMatch. The kill counts towards %2$s"
 }
