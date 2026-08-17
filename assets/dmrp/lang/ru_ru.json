@@ -18,8 +18,12 @@
 "death.attack.dmrp:grandmagus.tier2.lightning.item": "%1$s был испепелён молнией %2$s",
 "death.attack.dmrp:grandmagus.tier2.wind": "%1$s разбился из-за вихря %2$s",
 "death.attack.dmrp:grandmagus.tier2.wind.item": "%1$s разбился из-за вихря %2$s",
-"death.attack.dmrp:grandmagus.tier3.fire": "%1$s был стёрт с лица Земли %2$s",
-"death.attack.dmrp:grandmagus.tier3.fire.item": "%1$s был стёрт с лица Земли %2$s",
-"death.attack.dmrp:grandmagus.tier3.fire_suicide": "%1$s стёр сам себя с лица Земли. Убийство засчитано %2$s",
-"death.attack.dmrp:grandmagus.tier3.fire_suicide.item": "%1$s стёр сам себя с лица Земли. Убийство засчитано %2$s"
+"death.attack.dmrp:grandmagus.tier3.fire": "%1$s был стёрт с лица земли %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire.item": "%1$s был стёрт с лица земли %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire_suicide": "%1$s стёр сам себя с лица земли. Убийство засчитано %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire_suicide.item": "%1$s стёр сам себя с лица земли. Убийство засчитано %2$s",
+"death.attack.dmrp:jock.hail_mary": "%1$s был вышиблен мячом %2$s",
+"death.attack.dmrp:jock.hail_mary.item": "%1$s был вышиблен мячом %2$s",
+"death.attack.dmrp:jock.tackle_n_toss": "%1$s разбился от броска %2$s",
+"death.attack.dmrp:jock.tackle_n_toss.item": "%1$s разбился от броска %2$s"
 }
