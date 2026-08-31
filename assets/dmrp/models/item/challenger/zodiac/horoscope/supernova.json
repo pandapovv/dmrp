@@ -5,7 +5,7 @@
 	"textures": {
 		"0": "dmrp:item/challenger/zodiac/horoscope/supernova",
 		"1": "dmrp:item/challenger/zodiac/horoscope/body"
-  },
+	},
 	"elements": [
 		{
 			"from": [7, 4, 0],
@@ -75,6 +75,7 @@
 		{
 			"from": [7.75, 4.25, 8.625],
 			"to": [8.25, 7.75, 9.375],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 4, 8]},
 			"faces": {
 				"north": {"uv": [0, 12, 0.5, 15.5], "texture": "#0"},
@@ -88,6 +89,7 @@
 		{
 			"from": [7.75, 5, 7.625],
 			"to": [8.25, 7, 8.375],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 9]},
 			"faces": {
 				"north": {"uv": [12, 10, 12.5, 12], "texture": "#0"},
@@ -101,6 +103,7 @@
 		{
 			"from": [7.75, 5, 9.625],
 			"to": [8.25, 7, 10.375],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 11]},
 			"faces": {
 				"north": {"uv": [12, 8, 12.5, 10], "texture": "#0"},
@@ -114,6 +117,7 @@
 		{
 			"from": [7.75, 5.5, 6.625],
 			"to": [8.25, 6.5, 7.375],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 8]},
 			"faces": {
 				"north": {"uv": [6, 14, 6.5, 15], "texture": "#0"},
@@ -127,6 +131,7 @@
 		{
 			"from": [7.75, 5.5, 10.625],
 			"to": [8.25, 6.5, 11.375],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 12]},
 			"faces": {
 				"north": {"uv": [4, 14, 4.5, 15], "texture": "#0"},
@@ -166,6 +171,7 @@
 		{
 			"from": [7.5, 5.25, 12.25],
 			"to": [8.5, 6.75, 17.75],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 13]},
 			"faces": {
 				"north": {"uv": [10, 0, 11, 1.5], "texture": "#0"},
@@ -179,6 +185,7 @@
 		{
 			"from": [7.5, 2.75, 5.25],
 			"to": [8.5, 3.25, 12.75],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 2, 7]},
 			"faces": {
 				"north": {"uv": [3, 14, 4, 14.5], "texture": "#0"},
@@ -192,6 +199,7 @@
 		{
 			"from": [7.5, 3.75, 12.25],
 			"to": [8.5, 4.25, 14.75],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 3, 9]},
 			"faces": {
 				"north": {"uv": [2, 14, 3, 14.5], "texture": "#0"},
@@ -205,6 +213,7 @@
 		{
 			"from": [7.5, 3.25, 12.25],
 			"to": [8.5, 3.75, 12.75],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 2, 7]},
 			"faces": {
 				"north": {"uv": [13, 12, 14, 12.5], "texture": "#0"},
@@ -218,6 +227,7 @@
 		{
 			"from": [7.5, 6, 0.25],
 			"to": [8.5, 7.75, 4],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, -1]},
 			"faces": {
 				"north": {"uv": [8, 4, 9, 5.75], "texture": "#0"},
@@ -348,6 +358,7 @@
 		{
 			"from": [7.5, 8.75, 5.25],
 			"to": [8.5, 9.25, 12.75],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 7]},
 			"faces": {
 				"north": {"uv": [13, 10, 14, 10.5], "texture": "#0"},
@@ -361,6 +372,7 @@
 		{
 			"from": [7.5, 7.75, 12.25],
 			"to": [8.5, 8.25, 14.75],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 9]},
 			"faces": {
 				"north": {"uv": [13, 8, 14, 8.5], "texture": "#0"},
@@ -374,6 +386,7 @@
 		{
 			"from": [7.5, 8.25, 12.25],
 			"to": [8.5, 8.75, 12.75],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 7]},
 			"faces": {
 				"north": {"uv": [5, 13, 6, 13.5], "texture": "#0"},
