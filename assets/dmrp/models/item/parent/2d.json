@@ -3,6 +3,7 @@
 		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 0],
+			"light_emission": 15,
 			"faces": {
 				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 0, 8], "texture": "#0"},

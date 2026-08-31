@@ -1,7 +1,5 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
-	"texture_size": [8, 8],
+
 	"textures": {
 		"1": "dmrp:item/challenger/zodiac/horoscope/body",
 		"2": "dmrp:item/challenger/zodiac/horoscope/genesis",
