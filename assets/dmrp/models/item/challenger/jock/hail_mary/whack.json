@@ -1,0 +1,6 @@
+{
+	"parent": "dmrp:item/parent/gui_only",
+	"textures": {
+		"0": "dmrp:item/challenger/jock/hail_mary/whack"
+	}
+}

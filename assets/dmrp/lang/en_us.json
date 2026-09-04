@@ -26,8 +26,12 @@
 "death.attack.dmrp:grandmagus.tier3.fire.item": "%1$s was wiped off the face of the earth by %2$s",
 "death.attack.dmrp:grandmagus.tier3.fire_suicide": "%1$s wiped himself off the face of the earth. The kill counts towards %2$s",
 "death.attack.dmrp:grandmagus.tier3.fire_suicide.item": "%1$s wiped himself off the face of the earth. The kill counts towards %2$s",
+"death.attack.dmrp:grandmagus.tier3.fire_suicide_no_source": "%1$s wiped himself off the face of the earth",
 "death.attack.dmrp:jock.hail_mary": "%1$s was knocked out by %2$s",
 "death.attack.dmrp:jock.hail_mary.item": "%1$s was knocked out by %2$s",
 "death.attack.dmrp:jock.tackle_n_toss": "%1$s was slammed to death by %2$s",
-"death.attack.dmrp:jock.tackle_n_toss.item": "%1$s was slammed to death by %2$s"
+"death.attack.dmrp:jock.tackle_n_toss.item": "%1$s was slammed to death by %2$s",
+"death.attack.dmrp:game/no_message": "",
+"death.attack.dmrp:game/mode/elimination_timer": "%1$s's time has run out. The kill counts towards %2$s",
+"death.attack.dmrp:game/mode/elimination_timer.item": "%1$s's time has run out. The kill counts towards %2$s"
 }

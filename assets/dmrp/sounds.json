@@ -51,5 +51,8 @@
   },
   "challenger.jock.whistle": {
     "sounds": ["dmrp:challenger/jock/whistle"]
+  },
+  "challenger.jock.roid_rage.activate": {
+    "sounds": ["dmrp:challenger/jock/roid_rage/activate"]
   }
 }
