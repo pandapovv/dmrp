@@ -54,5 +54,10 @@
   },
   "challenger.jock.roid_rage.activate": {
     "sounds": ["dmrp:challenger/jock/roid_rage/activate"]
+  },
+  "challenger.jock.crowd": {
+    "sounds": ["dmrp:challenger/jock/crowd/1",
+               "dmrp:challenger/jock/crowd/2",
+               "dmrp:challenger/jock/crowd/3"]
   }
 }
