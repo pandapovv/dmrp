@@ -59,5 +59,10 @@
     "sounds": ["dmrp:challenger/jock/crowd/1",
                "dmrp:challenger/jock/crowd/2",
                "dmrp:challenger/jock/crowd/3"]
+  },
+    "entity.generic.eat": {
+    "sounds": ["random/eat1",
+               "random/eat2",
+               "random/eat3"]
   }
 }

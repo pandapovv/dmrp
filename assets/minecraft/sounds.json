@@ -1,0 +1,6 @@
+{
+  "entity.generic.eat": {
+    "replace": true,
+    "sounds": ["minecraft:empty"]
+  }
+}
