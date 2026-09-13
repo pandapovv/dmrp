@@ -20,7 +20,8 @@
         "quartz": "minecraft:trims/color_palettes/quartz",
         "redstone": "minecraft:trims/color_palettes/redstone",
         "resin": "minecraft:trims/color_palettes/resin",
-        "vantablack": "dmrp:trims/color_palettes/vantablack"
+        "vantablack": "dmrp:trims/color_palettes/vantablack",
+        "white": "dmrp:trims/color_palettes/white"
       },
       "textures": [
         "minecraft:trims/entity/humanoid/sentry",

@@ -10,7 +10,8 @@
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
-        "vantablack": "dmrp:trims/color_palettes/vantablack"
+        "vantablack": "dmrp:trims/color_palettes/vantablack",
+        "white": "dmrp:trims/color_palettes/white"
       }
     }
   ]
