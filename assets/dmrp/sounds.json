@@ -14,6 +14,13 @@
   "game.timer.countdown": {
     "sounds": ["dmrp:game/timer/countdown"]
   },
+  "common.crit": {
+    "sounds": ["dmrp:common/crit/1",
+               "dmrp:common/crit/2",
+               "dmrp:common/crit/3",
+               "dmrp:common/crit/4",
+               "dmrp:common/crit/5"]
+  },
   "challenger.zodiac.horoscope.1": {
     "sounds": ["dmrp:challenger/zodiac/horoscope/1"]
   },
