@@ -31,6 +31,8 @@
 "death.attack.dmrp:jock.hail_mary.item": "%1$s was knocked out by %2$s",
 "death.attack.dmrp:jock.tackle_n_toss": "%1$s was slammed to death by %2$s",
 "death.attack.dmrp:jock.tackle_n_toss.item": "%1$s was slammed to death by %2$s",
+"death.attack.dmrp:yinyang.dichotomy.clone": "%1$s was slain by %2$s using [\u00A70\u00A7lDuality\u00A7r]",
+"death.attack.dmrp:yinyang.dichotomy.clone.item": "%1$s was slain by %2$s using [\u00A70\u00A7lDuality\u00A7r]",
 "death.attack.dmrp:game/no_message": "",
 "death.attack.dmrp:game/mode/elimination_timer": "%1$s's time has run out. The kill counts towards %2$s",
 "death.attack.dmrp:game/mode/elimination_timer.item": "%1$s's time has run out. The kill counts towards %2$s"

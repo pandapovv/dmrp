@@ -29,5 +29,8 @@
 "death.attack.dmrp:jock.hail_mary": "%1$s был вышиблен мячом %2$s",
 "death.attack.dmrp:jock.hail_mary.item": "%1$s был вышиблен мячом %2$s",
 "death.attack.dmrp:jock.tackle_n_toss": "%1$s разбился от броска %2$s",
-"death.attack.dmrp:jock.tackle_n_toss.item": "%1$s разбился от броска %2$s"
+"death.attack.dmrp:jock.tackle_n_toss.item": "%1$s разбился от броска %2$s",
+"death.attack.dmrp:game/no_message": "",
+"death.attack.dmrp:game/mode/elimination_timer": "Время %1$s вышло. Убийство засчитано %2$s",
+"death.attack.dmrp:game/mode/elimination_timer.item": "Время %1$s вышло. Убийство засчитано %2$s"
 }
