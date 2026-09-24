@@ -1,11 +1,10 @@
 {
     "pack":{
-    "pack_format": 88,
+    "pack_format": 97,
         "description":"Deathmatch V3.0 resources 26.2",
         "supported_formats": {
             "min_inclusive": 1,
-            "max_inclusive": 320,
-            "authors":["pandapov"]
+            "max_inclusive": 320
         },
         "min_format": 1,
         "max_format": 320
