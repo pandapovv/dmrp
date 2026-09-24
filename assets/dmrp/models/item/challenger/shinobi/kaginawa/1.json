@@ -4,7 +4,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "dmrp:item/challenger/shinobi/kaginawa/chain",
-		"1": "dmrp:item/challenger/shinobi/kaginawa/hook"
+		"1": "dmrp:item/challenger/shinobi/kaginawa/hook",
+		"2": "dmrp:item/challenger/shinobi/kaginawa/ropes"
 	},
 	"elements": [
 		{
@@ -376,12 +377,25 @@
 			"to": [8.15, 8, 8.35],
 			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [7.9, 6.5, 8]},
 			"faces": {
-				"north": {"uv": [11, 4, 12, 5], "texture": "#0"},
-				"east": {"uv": [11, 5, 12, 6], "texture": "#0"},
-				"south": {"uv": [11, 6, 12, 7], "texture": "#0"},
-				"west": {"uv": [11, 7, 12, 8], "texture": "#0"},
-				"up": {"uv": [12, 9, 11, 8], "texture": "#0"},
-				"down": {"uv": [10, 11, 9, 12], "texture": "#0"}
+				"north": {"uv": [0, 4, 0.25, 8.5], "texture": "#0"},
+				"east": {"uv": [0, 5, 0.25, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.25, 3.5], "texture": "#0"},
+				"west": {"uv": [0, 7, 0.25, 11.5], "texture": "#0"},
+				"up": {"uv": [11.25, 8.25, 11, 8], "texture": "#0"},
+				"down": {"uv": [9.25, 11, 9, 11.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, -8, 3],
+			"to": [19, -1, 15],
+			"rotation": {"x": 90, "y": 67.5, "z": 90, "origin": [8.25, 3.5, 10.15]},
+			"faces": {
+				"north": {"uv": [6, 0, 12, 3.5], "texture": "#2"},
+				"east": {"uv": [6, 3.5, 12, 7], "texture": "#2"},
+				"south": {"uv": [6, 7, 12, 10.5], "texture": "#2"},
+				"west": {"uv": [6, 10.5, 12, 14], "texture": "#2"},
+				"up": {"uv": [0, 0, 6, 6], "texture": "#2"},
+				"down": {"uv": [0, 6, 6, 12], "texture": "#2"}
 			}
 		},
 		{
@@ -412,8 +426,8 @@
 		},
 		"gui": {
 			"rotation": [-112.44, -16.42, -154.5],
-			"translation": [-3.5, -4, 0],
-			"scale": [0.72, 0.72, 0.72]
+			"translation": [-5.5, -6.5, 0],
+			"scale": [0.9, 0.9, 0.9]
 		}
 	},
 	"groups": [
@@ -429,7 +443,7 @@
 			"origin": [9, 5, 7.5],
 			"scope": 0,
 			"color": 0,
-			"children": [28, 29]
+			"children": [28, 29, 30]
 		}
 	]
 }
