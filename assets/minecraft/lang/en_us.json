@@ -1,0 +1,5 @@
+{
+"mount.onboard": "",
+"build.tooHigh": "The height limit for building is %s",
+"build.tooLow": "The minimum height for building is %s"
+}
