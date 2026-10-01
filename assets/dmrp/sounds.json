@@ -68,13 +68,36 @@
                "dmrp:challenger/jock/crowd/3"]
   },
   "challenger.yinyang.white_sweep": {
-    "sounds": ["dmrp:challenger/yinyang/duality/white/sweep1",
-               "dmrp:challenger/yinyang/duality/white/sweep2",
-               "dmrp:challenger/yinyang/duality/white/sweep3",
-               "dmrp:challenger/yinyang/duality/white/sweep4",
-               "dmrp:challenger/yinyang/duality/white/sweep5",
-               "dmrp:challenger/yinyang/duality/white/sweep6",
-               "dmrp:challenger/yinyang/duality/white/sweep7"]
+    "sounds": [
+      {
+        "name": "dmrp:challenger/yinyang/duality/white/sweep1",
+        "volume": 0.7
+      },
+      {
+        "name": "dmrp:challenger/yinyang/duality/white/sweep2",
+        "volume": 0.7
+      },
+      {
+        "name": "dmrp:challenger/yinyang/duality/white/sweep3",
+        "volume": 0.7
+      },
+      {
+        "name": "dmrp:challenger/yinyang/duality/white/sweep4",
+        "volume": 0.7
+      },
+      {
+        "name": "dmrp:challenger/yinyang/duality/white/sweep5",
+        "volume": 0.7
+      },
+      {
+        "name": "dmrp:challenger/yinyang/duality/white/sweep6",
+        "volume": 0.7
+      },
+      {
+        "name": "dmrp:challenger/yinyang/duality/white/sweep7",
+        "volume": 0.7
+      }
+    ]
   },
     "entity.generic.eat": {
     "sounds": ["random/eat1",

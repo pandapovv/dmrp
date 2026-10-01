@@ -32,5 +32,9 @@
 "death.attack.dmrp:jock.tackle_n_toss.item": "%1$s разбился от броска %2$s",
 "death.attack.dmrp:game/no_message": "",
 "death.attack.dmrp:game/mode/elimination_timer": "Время %1$s вышло. Убийство засчитано %2$s",
-"death.attack.dmrp:game/mode/elimination_timer.item": "Время %1$s вышло. Убийство засчитано %2$s"
+"death.attack.dmrp:game/mode/elimination_timer.item": "Время %1$s вышло. Убийство засчитано %2$s",
+"death.attack.dmrp:shinobi.shuriken": "%1$s пронзён сюрикеном от %2$s",
+"death.attack.dmrp:shinobi.shuriken.item": "%1$s пронзён сюрикеном от %2$s",
+"death.attack.dmrp:shinobi.kaginawa": "%1$s был пойман на крюк %2$s",
+"death.attack.dmrp:shinobi.kaginawa.item": "%1$s был пойман на крюк %2$s"
 }
