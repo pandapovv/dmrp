@@ -1,6 +1,7 @@
 {
 	"parent": "dmrp:item/challenger/grandmagus/book/parent",
 	"textures": {
-		"2": "dmrp:item/challenger/grandmagus/book/seal/3"
+		"2": "dmrp:item/challenger/grandmagus/book/seal/3",
+		"4": "dmrp:item/challenger/grandmagus/book/page/3"
 	}
 }
