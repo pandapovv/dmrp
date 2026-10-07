@@ -1,0 +1,6 @@
+{
+	"parent": "dmrp:item/parent/2d",
+	"textures": {
+		"0": "dmrp:item/challenger/jock/juggernaut"
+	}
+}
