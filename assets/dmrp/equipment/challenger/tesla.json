@@ -1,0 +1,29 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "dmrp:tesla"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "dmrp:tesla"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "dmrp:tesla"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dmrp:tesla"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "dmrp:tesla"
+      }
+    ]
+  }
+}
