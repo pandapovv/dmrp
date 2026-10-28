@@ -4,5 +4,7 @@
 "build.tooLow": "The minimum height for building is %s",
 "container.crafting": "",
 "gui.recipebook.toggleRecipes.all": "",
-"gui.recipebook.toggleRecipes.craftable": "Hidden"
+"gui.recipebook.toggleRecipes.craftable": "Hidden",
+"death.attack.drown": "%1$s drowned",
+"death.attack.drown.player": "%1$s drowned while trying to escape %2$s"
 }
