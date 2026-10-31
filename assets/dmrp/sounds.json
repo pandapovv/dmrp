@@ -103,5 +103,8 @@
     "sounds": ["random/eat1",
                "random/eat2",
                "random/eat3"]
+  }, 
+    "game.player.respawn": {
+    "sounds": ["dmrp:game/respawn"]
   }
 }
