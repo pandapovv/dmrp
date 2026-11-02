@@ -105,6 +105,12 @@
                "random/eat3"]
   }, 
     "game.player.respawn": {
-    "sounds": ["dmrp:game/respawn"]
+    "sounds": ["dmrp:player/respawn"]
+  }, 
+    "game.player.on_kill": {
+    "sounds": [{
+      "name": "dmrp:player/on_kill",
+      "volume": 0.4
+      }]
   }
 }

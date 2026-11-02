@@ -2,12 +2,12 @@
 #extension GL_ARB_separate_shader_objects : require
 
 uniform sampler2D InSampler;
-uniform sampler2D ReadySampler;
+uniform sampler2D readySampler;
 
 layout(std140) uniform SamplerInfo {
     vec2 OutSize;
     vec2 InSize;
-    vec2 ReadySize;
+    vec2 readySize;
 };
 
 layout(location = 0) in vec2 texCoord;
@@ -18,7 +18,7 @@ void main() {
     vec4 scene = texture(InSampler, texCoord);
 
     // Native pixel dimensions of ready.png.
-    vec2 size = ReadySize;
+    vec2 size = readySize;
 
     // Center horizontally, position above the hotbar.
     // Increase 0.13 to move the text higher.
@@ -41,7 +41,7 @@ void main() {
         // to the image's top-to-bottom orientation.
         uv.y = 1.0 - uv.y;
 
-        vec4 ready = texture(ReadySampler, uv);
+        vec4 ready = texture(readySampler, uv);
 
         // Blend the transparent text over the world.
         fragColor = vec4(

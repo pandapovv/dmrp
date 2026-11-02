@@ -1,4 +1,10 @@
 {
+"death.attack.dmrp:game/no_message": "",
+"death.attack.dmrp:game/no_message.item": "",
+"death.attack.dmrp:game/no_message.player": "",
+"death.attack.dmrp:game/mode/elimination_timer": "%1$s's time has run out. The kill counts towards %2$s",
+"death.attack.dmrp:game/mode/elimination_timer.item": "%1$s's time has run out. The kill counts towards %2$s",
+
 "death.attack.dmrp:smasher.horn_toss": "%1$s was gored to death by %2$s",
 "death.attack.dmrp:smasher.obliterate": "%1$s was \u00A76\u00A7lOBLITERATED\u00A7r by %2$s",
 "death.attack.dmrp:smasher.obliterate.item": "%1$s was \u00A76\u00A7lOBLITERATED\u00A7r by %2$s with %3$s",
@@ -33,9 +39,6 @@
 "death.attack.dmrp:jock.tackle_n_toss.item": "%1$s was slammed to death by %2$s",
 "death.attack.dmrp:yinyang.dichotomy.clone": "%1$s was slain by %2$s using [\u00A70\u00A7lDuality\u00A7r]",
 "death.attack.dmrp:yinyang.dichotomy.clone.item": "%1$s was slain by %2$s using [\u00A70\u00A7lDuality\u00A7r]",
-"death.attack.dmrp:game/no_message": "",
-"death.attack.dmrp:game/mode/elimination_timer": "%1$s's time has run out. The kill counts towards %2$s",
-"death.attack.dmrp:game/mode/elimination_timer.item": "%1$s's time has run out. The kill counts towards %2$s",
 "death.attack.dmrp:shinobi.shuriken": "%1$s was pierced by a shuriken from %2$s",
 "death.attack.dmrp:shinobi.shuriken.item": "%1$s was pierced by a shuriken from %2$s",
 "death.attack.dmrp:shinobi.kaginawa": "%1$s was caught on a hook from %2$s",

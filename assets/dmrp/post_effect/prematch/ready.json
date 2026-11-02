@@ -5,15 +5,15 @@
   "passes": [
     {
       "vertex_shader": "minecraft:core/screenquad",
-      "fragment_shader": "dmrp:post/game/ready",
+      "fragment_shader": "dmrp:post/prematch/ready",
       "inputs": [
         {
           "sampler_name": "In",
           "target": "minecraft:main"
         },
         {
-          "sampler_name": "Ready",
-          "location": "dmrp:ready",
+          "sampler_name": "ready",
+          "location": "dmrp:prematch/ready",
           "width": 128,
           "height": 32,
           "bilinear": true
