@@ -2,10 +2,9 @@
 	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "wood",
-		"1": "metal",
-		"2": "hole",
-		"particle": "wood"
+		"0": "dmrp:item/challenger/sheriff/shotgun/wood",
+		"1": "dmrp:item/challenger/sheriff/shotgun/metal",
+		"2": "dmrp:item/challenger/sheriff/shotgun/hole"
 	},
 	"elements": [
 		{
@@ -37,7 +36,7 @@
 		{
 			"from": [6.57875, 8.44683, -16],
 			"to": [8.57875, 10.44683, 16],
-			"rotation": {"x": 0, "y": 0, "z": -45, "origin": [8, 6.90427, 9.45063]},
+			"rotation": {"angle": -45, "axis": "z", "origin": [8, 6.90427, 9.45063]},
 			"faces": {
 				"north": {"uv": [0, 6, 6, 0], "texture": "#2"},
 				"east": {"uv": [0, 0, 8, 0.5], "texture": "#1"},
@@ -50,7 +49,7 @@
 		{
 			"from": [4.45743, 6.32551, -16],
 			"to": [6.45743, 8.32551, 16],
-			"rotation": {"x": 0, "y": 0, "z": -45, "origin": [8, 6.90427, 9.45063]},
+			"rotation": {"angle": -45, "axis": "z", "origin": [8, 6.90427, 9.45063]},
 			"faces": {
 				"north": {"uv": [0, 0, 6, 6], "texture": "#2"},
 				"east": {"uv": [1, 1, 9, 1.5], "texture": "#1"},
@@ -373,17 +372,24 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 1.25, -5.5],
+			"rotation": [65, 0, 0],
+			"translation": [0, 5.5, -1],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
 			"translation": [0, 2.5, -10],
 			"scale": [0.65, 0.65, 0.65]
 		},
-		"firstperson_lefthand": {
-			"translation": [-9.75, 5, -9.5]
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [150, -30, 172.5],
+			"translation": [-0.5, 1.25, 0],
+			"scale": [0.49, 0.49, 0.49]
 		}
 	},
 	"groups": [
