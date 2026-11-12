@@ -112,5 +112,51 @@
       "name": "dmrp:player/on_kill",
       "volume": 0.4
       }]
+  },
+  "challenger.sheriff.click": {
+    "sounds": ["dmrp:challenger/sheriff/click/1",
+               "dmrp:challenger/sheriff/click/2"]
+  },
+  "challenger.sheriff.magnum_opus.1": {
+    "sounds": ["dmrp:challenger/sheriff/magnum_opus/1"]
+  },
+  "challenger.sheriff.magnum_opus.2": {
+    "sounds": ["dmrp:challenger/sheriff/magnum_opus/2"]
+  },
+  "challenger.sheriff.magnum_opus.3": {
+    "sounds": ["dmrp:challenger/sheriff/magnum_opus/3"]
+  },
+  "challenger.sheriff.hammer": {
+    "sounds": ["dmrp:challenger/sheriff/hammer/1",
+               "dmrp:challenger/sheriff/hammer/2",
+               "dmrp:challenger/sheriff/hammer/3",
+               "dmrp:challenger/sheriff/hammer/4",
+               "dmrp:challenger/sheriff/hammer/5"]
+  },
+  "challenger.sheriff.reload.1": {
+    "sounds": ["dmrp:challenger/sheriff/reload/1"]
+  },
+  "challenger.sheriff.reload.2": {
+    "sounds": ["dmrp:challenger/sheriff/reload/2"]
+  },
+  "challenger.sheriff.reload.3": {
+    "sounds": ["dmrp:challenger/sheriff/reload/3"]
+  },
+  "challenger.sheriff.reload.4": {
+    "sounds": ["dmrp:challenger/sheriff/reload/4"]
+  },
+  "challenger.sheriff.shot": {
+    "sounds": ["dmrp:challenger/sheriff/shot/1",
+               "dmrp:challenger/sheriff/shot/2",
+               "dmrp:challenger/sheriff/shot/3"]
+  },
+  "challenger.sheriff.clack": {
+    "sounds": ["dmrp:challenger/sheriff/clack"]
+  },
+  "challenger.sheriff.shotgun": {
+    "sounds": ["dmrp:challenger/sheriff/shotgun"]
+  },
+  "challenger.sheriff.spin": {
+    "sounds": ["dmrp:challenger/sheriff/spin"]
   }
 }
